@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["child","parent","get_parent_name()","name()"],"longSearchIndex":["child","parent","child#get_parent_name()","parent#name()"],"info":[["Child","","Child.html","",""],["Parent","","Parent.html","",""],["get_parent_name","Child","Child.html#method-i-get_parent_name","()",""],["name","Parent","Parent.html#method-i-name","()",""]]}}
